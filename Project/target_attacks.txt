@@ -1,0 +1,10 @@
+/content/gdrive/MyDrive/TIP-IM/data/LFW/Aaron_Sorkin/Aaron_Sorkin_0002.jpg
+/content/gdrive/MyDrive/TIP-IM/data/LFW/Amanda_Coetzer/Amanda_Coetzer_0002.jpg
+/content/gdrive/MyDrive/TIP-IM/data/LFW/Barry_Bonds/Barry_Bonds_0001.jpg
+/content/gdrive/MyDrive/TIP-IM/data/LFW/Bertrand_Bonello/Bertrand_Bonello_0002.jpg
+/content/gdrive/MyDrive/TIP-IM/data/LFW/Brooke_Shields/Brooke_Shields_0001.jpg
+/content/gdrive/MyDrive/TIP-IM/data/LFW/Charles_Grassley/Charles_Grassley_0002.jpg
+/content/gdrive/MyDrive/TIP-IM/data/LFW/Hashim_Thaci/Hashim_Thaci_0001.jpg
+/content/gdrive/MyDrive/TIP-IM/data/LFW/Jane_Clayson/Jane_Clayson_0001.jpg
+/content/gdrive/MyDrive/TIP-IM/data/LFW/Tom_Harkin/Tom_Harkin_0003.jpg
+/content/gdrive/MyDrive/TIP-IM/data/LFW/Nick_Nolte/Nick_Nolte_0002.jpg

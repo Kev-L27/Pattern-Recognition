@@ -1,0 +1,9 @@
+for i, j in enumerate(dig_zero):
+  for k in range(i):
+    genuine_dist.append(np.linalg.norm(dig_zero[i] - dig_zero[j]))
+for i, j in enumerate(dig_one):
+  for k in range(i):
+    genuine_dist.append(np.linalg.norm(dig_one[i] - dig_one[k]))
+for i, j in enumerate(dig_zero):
+  for k in dig_one:
+    impostor_dist.append(np.linalg.norm(i - k))
